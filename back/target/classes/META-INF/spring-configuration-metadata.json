@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "jwt",
+      "type": "cn.edu.wzut.utils.JwtUtil",
+      "sourceType": "cn.edu.wzut.utils.JwtUtil"
+    }
+  ],
+  "properties": [
+    {
+      "name": "jwt.expiration",
+      "type": "java.lang.Long",
+      "sourceType": "cn.edu.wzut.utils.JwtUtil"
+    },
+    {
+      "name": "jwt.header",
+      "type": "java.lang.String",
+      "sourceType": "cn.edu.wzut.utils.JwtUtil"
+    },
+    {
+      "name": "jwt.secret",
+      "type": "java.lang.String",
+      "sourceType": "cn.edu.wzut.utils.JwtUtil"
+    }
+  ],
+  "hints": []
+}
